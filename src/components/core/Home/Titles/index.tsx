@@ -88,7 +88,7 @@ const Title1 = () => {
         </HeroHighlight>
       </div>
       <p className="mt-6 lg:mt-5 lg:w-11/12 lg:ml-4 text-justify lg:indent-3 text-balance hyphens-auto break-words">
-        O X Workshop Técnico-Científico de Computação do RN tem como propósito
+        O XI Workshop Técnico-Científico de Computação do RN tem como propósito
         despertar o interesse dos estudantes de graduação e pós-graduação em
         pesquisa científica na área de ciência da computação. Além disso, busca
         discutir temas relevantes para estudantes e profissionais, desenvolver
